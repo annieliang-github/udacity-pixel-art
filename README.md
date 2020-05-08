@@ -1,5 +1,3 @@
-Live Project : https://shubham0794x.github.io/Udacity-pixel-art-maker/
-
 # Pixel Art Maker Project
 
 ## Build
